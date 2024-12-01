@@ -32,7 +32,7 @@ This project uses Streamlit to create an interactive web application for Sentime
 
 # 📂 Installation
 ✅ Clone this repository :
-git clone https://github.com/yourusername/sentiment-analysis-reviews.git  
+git clone https://github.com/kirankhakare/Machine-Learning-Model-Data-Analysis.git  
 
 ✅ Navigate to the project directory:
 cd sentiment-analysis-reviews  
